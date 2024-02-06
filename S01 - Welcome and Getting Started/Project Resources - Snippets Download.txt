@@ -1,0 +1,5 @@
+Project Resources - Snippets Download
+https://www.dotnetmastery.com/Home/Details?courseId=9
+
+GitHub Link
+https://github.com/bhrugen/Bulky_MVC

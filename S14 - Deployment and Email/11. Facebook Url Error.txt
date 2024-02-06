@@ -1,0 +1,14 @@
+Facebook Url Error
+Hello,
+
+
+
+Facebook URL might not work in production websites unless you have configured privacy URL (which needs to be configured in url settings). It should be functional on localhost as shown in the course though.
+
+
+
+So if it does not work in your deployed website do not overstress, since when you add that to real world applications like your company you have to provide your company's privacy and data usage policies.
+
+Thanks,
+
+Bhrugen

@@ -1,0 +1,10 @@
+
+Hello,
+
+In the next video we will be modifying the style. If the changes do not reflect in the browser make sure to hard refresh by pressing Ctrl+ F5.
+
+
+
+Thanks,
+
+Bhrugen

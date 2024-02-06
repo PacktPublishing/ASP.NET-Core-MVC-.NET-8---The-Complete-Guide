@@ -1,0 +1,4 @@
+Scaffolding Error
+Hello,
+
+If you have issues with scaffolding make sure you have updated NuGet package explained in lecture 91  - Depereciated NuGet Package (Microsoft.AspNetCore.Mvc.ViewFeatures), which is in section 6 - Product CRUD.
